@@ -1,16 +1,27 @@
-# myapp
+# Layout App - App da Ana
 
-A new Flutter project.
+Este repositório contém um aplicativo Flutter criado como parte de um projeto pessoal para praticar desenvolvimento de interfaces. O aplicativo apresenta um layout simples e moderno com destaque para a criatividade no design.
 
-## Getting Started
+## Páginas na Web
+Acesse as páginas abaixo 
+Minha primeira página:
+Página de Layout responsivo: 
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- **Seção superior**: Exibe informações como localidade (Santa Amélia, PR) e "Talento Tech".
+- **Conteúdo central**: Um cartão estilizado com bordas arredondadas, sombra em tom de roxo e o texto "App da Ana".
+- **Rodapé**: Autoria com "by Ana Júlia Silva de Morais".
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Framework para desenvolvimento de aplicações multiplataforma.
+- **Dart**: Linguagem de programação usada com Flutter.
+
+## Estrutura do Projeto
+
+- `lib/main.dart`: Arquivo principal com a definição do layout.
+
+---
+
+Feito com ❤️ utilizando Flutter.
