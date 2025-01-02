@@ -4,8 +4,8 @@ Este repositório contém um aplicativo Flutter criado como parte de um projeto 
 
 ## Páginas na Web
 Acesse as páginas abaixo 
-Minha primeira página:
-Página de Layout responsivo: 
+- Minha primeira página:
+- Página de Layout responsivo: https://anasilvamorais.github.io/AnaLayout/
 
 ## Funcionalidades
 
