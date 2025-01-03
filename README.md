@@ -2,9 +2,8 @@
 
 Este repositório contém um aplicativo Flutter criado como parte de um projeto pessoal para praticar desenvolvimento de interfaces. O aplicativo apresenta um layout simples e moderno com destaque para a criatividade no design.
 
-## Páginas na Web
-Acesse as páginas abaixo 
-- Minha primeira página:
+## Páginas na Web - Links 
+- Minha primeira página: https://anasilvamorais.github.io/meu-primeiro-app/
 - Página de Layout responsivo: https://anasilvamorais.github.io/AnaLayout/
 
 ## Funcionalidades
